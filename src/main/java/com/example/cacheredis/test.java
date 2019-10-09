@@ -11,7 +11,7 @@ public class test {
 
     }
     public void cs2(){
-
+        System.out.println("");
     }
 
 }
