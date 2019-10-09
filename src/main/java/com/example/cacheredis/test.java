@@ -10,5 +10,8 @@ public class test {
     public void cs(){
 
     }
+    public void cs2(){
+
+    }
 
 }
